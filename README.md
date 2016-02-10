@@ -71,3 +71,4 @@ Rejoice.start({ args: ['node', 'rejoice', '-c', 'app.js'] });
 
 - this is why `hapi-swagger` errors with `ValidationError: Uncaught error: schemes ["socket"]`
 - http://stackoverflow.com/questions/32574593/azure-web-site-starting-my-hapi-node-js-site-with-socket-protocol
+- fixing `hapi-swagger` https://github.com/glennjones/hapi-swagger/pull/231
